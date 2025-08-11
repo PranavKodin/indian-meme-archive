@@ -1,0 +1,32 @@
+# Ignore common OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Ignore node_modules for JavaScript projects (if applicable)
+node_modules/
+
+# Ignore configuration files and secrets
+.env
+*.env.local
+*.env.development
+*.env.production
+
+# Ignore build artifacts
+dist/
+build/
+
+# Ignore IDE specific files
+.project
+.classpath
+.settings/
