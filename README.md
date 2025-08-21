@@ -21,6 +21,8 @@ This repository will host a curated collection of memes, focusing on:
 *   **Classic Memes:** Memes that have stood the test of time and become iconic.
 *   **Meme Formats:** Documentation of popular meme templates and their variations.
 
+NOTE:- It will not consist of posts that are made form the raw meme templates
+
 ## Contribution
 
 We welcome contributions from the community! If you have a meme you believe should be archived, or if you can provide context and categorization for existing memes, please:
